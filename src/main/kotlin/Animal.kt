@@ -2,7 +2,7 @@ open class Animal {
     open val image = ""
     open val food = ""
     open val habitat = ""
-    open var hunger = 10
+    var hunger = 10
 
     open fun makeNoise() {
         println("The Animal is making a noise")
