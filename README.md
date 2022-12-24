@@ -1,3 +1,4 @@
 # Animals
-Simple app from Kotlin Head First book.
-Worked with inheritance
+Simple app from Kotlin - Head First book
+
+Worked with inheritance.
